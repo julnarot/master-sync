@@ -1,0 +1,15 @@
+{
+  "name": "master-sync",
+  "version": "1.0.0",
+  "description": "master app for sync resource in json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@julnarot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
